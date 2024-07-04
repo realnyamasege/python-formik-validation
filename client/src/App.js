@@ -1,11 +1,10 @@
-import './App.css';
-import { SignupForm } from './components/Signup';
+import "./App.css";
+import { SignupForm } from "./components/Signup";
 function App() {
   return (
-    <div >
-      <SignupForm/>
+    <div>
+      <SignupForm />
     </div>
-    
   );
 }
 
